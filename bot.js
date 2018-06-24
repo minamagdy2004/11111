@@ -2465,3 +2465,5 @@ client.on('message', message => {
 //-------------------------------------<التوكن و المفتاح
 
 var prefix = "<";
+
+client.login('NDU0NDAzMDkxMjc0NjYxOTEx.DhByKA.SWBvXz8UOmoH6iNyG815Y_iD11s');
